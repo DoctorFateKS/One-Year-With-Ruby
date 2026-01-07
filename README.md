@@ -30,7 +30,7 @@ and to discover what consistency can build over time.
 
 ---
 
-- [Preface](#Chapters/Preface.md)
+- [Preface](Chapters/Preface.md)
 - [1. Thinking in Ruby](#)
 - [2. Don't Loop](#)
 - [3. Everything Returns a Value](#usage)
