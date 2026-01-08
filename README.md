@@ -30,8 +30,8 @@ and to discover what consistency can build over time.
 
 ---
 
-- [Preface](Chapters/Preface.md)
-- [1. Thinking in Ruby](#)
+- [Preface](https://github.com/DoctorFateKS/One-Year-With-Ruby/blob/main/Chapters/0.%20Preface.md)
+- [1. Thinking in Ruby](https://github.com/DoctorFateKS/One-Year-With-Ruby/blob/main/Chapters/1.%20Thinking%20in%20Ruby.md)
 - [2. Don't Loop](#)
 - [3. Everything Returns a Value](#usage)
 - [4. An Object has Responsabilities](#tech-stack)
