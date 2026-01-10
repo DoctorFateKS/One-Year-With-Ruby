@@ -37,6 +37,7 @@ and to discover what consistency can build over time.
 - An Object Has Responsabilities
 - Don't Control the Flow, Yield It !
 - Define Each Once = 50 Methods for Free
+- Names are not Values
 
 ---
 
