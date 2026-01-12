@@ -38,6 +38,7 @@ and to discover what consistency can build over time.
 - Don't Control the Flow, Yield It !
 - Define Each Once = 50 Methods for Free
 - Names are not Values
+- Nothing is a Thing
 
 ---
 
