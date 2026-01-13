@@ -39,6 +39,7 @@ and to discover what consistency can build over time.
 - Define Each Once = 50 Methods for Free
 - Names are not Values
 - Nothing is a Thing
+- Errors are not Conditions. They are Exceptions.
 
 ---
 
