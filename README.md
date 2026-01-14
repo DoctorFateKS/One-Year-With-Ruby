@@ -40,6 +40,7 @@ and to discover what consistency can build over time.
 - Names are not Values
 - Nothing is a Thing
 - Errors are not Conditions. They are Exceptions.
+- Read it Like a Sentence
 
 ---
 
