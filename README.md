@@ -35,12 +35,13 @@ and to discover what consistency can build over time.
 - Don't Loop
 - Everything Returns a Value
 - An Object Has Responsabilities
-- Don't Control the Flow, Yield It !
+- Don't Control the Flow, Yield It
 - Define Each Once = 50 Methods for Free
 - Names are not Values
 - Nothing is a Thing
-- Errors are not Conditions. They are Exceptions.
+- Errors are not Conditions. They are Exceptions
 - Read it Like a Sentence
+- Don’t Inherit Behavior, Compose it
 
 ---
 
