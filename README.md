@@ -42,6 +42,7 @@ and to discover what consistency can build over time.
 - Errors are not Conditions. They are Exceptions
 - Read it Like a Sentence
 - Don’t Inherit Behavior, Compose it
+- Ruby Code Can Write Ruby Code
 
 ---
 
