@@ -43,6 +43,7 @@ and to discover what consistency can build over time.
 - Read it Like a Sentence
 - Don’t Inherit Behavior, Compose it
 - Ruby Code Can Write Ruby Code
+- Know What It Cost
 
 ---
 
