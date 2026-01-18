@@ -44,6 +44,7 @@ and to discover what consistency can build over time.
 - Don’t Inherit Behavior, Compose it
 - Ruby Code Can Write Ruby Code
 - Know What It Cost
+- If it isn’t tested, it’s a rumor
 
 ---
 
