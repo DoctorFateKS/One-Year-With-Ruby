@@ -45,6 +45,7 @@ and to discover what consistency can build over time.
 - Ruby Code Can Write Ruby Code
 - Know What It Cost
 - If it isn’t Tested, it’s a Rumor
+- Can you Trust Ruby ?
 
 ---
 
