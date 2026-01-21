@@ -46,7 +46,8 @@ and to discover what consistency can build over time.
 - Know What It Cost
 - If it isn’t Tested, it’s a Rumor
 - Can you Trust Ruby ?
-- Make the code say what it means
+- Make the Code Say What it Means
+- APIs are Promises
 
 ---
 
