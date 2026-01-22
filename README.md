@@ -48,6 +48,7 @@ and to discover what consistency can build over time.
 - Can you Trust Ruby ?
 - Make the Code Say What it Means
 - APIs are Promises
+- Don’t Rush, Just Wait
 
 ---
 
