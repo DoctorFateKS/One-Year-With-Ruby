@@ -49,6 +49,7 @@ and to discover what consistency can build over time.
 - Make the Code Say What it Means
 - APIs are Promises
 - Don’t Rush, Just Wait
+- Resources Must be Respected
 
 ---
 
