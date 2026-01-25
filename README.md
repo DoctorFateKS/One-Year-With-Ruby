@@ -50,6 +50,7 @@ and to discover what consistency can build over time.
 - APIs are Promises
 - Don’t Rush, Just Wait
 - Resources Must be Respected
+- The Last Resort
 
 ---
 
