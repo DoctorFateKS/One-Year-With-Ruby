@@ -51,6 +51,7 @@ and to discover what consistency can build over time.
 - Don’t Rush, Just Wait
 - Resources Must be Respected
 - The Last Resort
+- Tests Describe Behavior, not Implementation
 
 ---
 
