@@ -52,6 +52,7 @@ and to discover what consistency can build over time.
 - Resources Must be Respected
 - The Last Resort
 - Tests Describe Behavior, not Implementation
+- The Ruby Library
 
 ---
 
