@@ -53,6 +53,7 @@ and to discover what consistency can build over time.
 - The Last Resort
 - Tests Describe Behavior, not Implementation
 - The Ruby Library
+- Every Codebase is a Teacher
 
 ---
 
