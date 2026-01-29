@@ -54,6 +54,7 @@ and to discover what consistency can build over time.
 - Tests Describe Behavior, not Implementation
 - The Ruby Library
 - Every Codebase is a Teacher
+- Patterns isn't Diagrams
 
 ---
 
