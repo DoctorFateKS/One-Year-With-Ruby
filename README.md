@@ -55,6 +55,7 @@ and to discover what consistency can build over time.
 - The Ruby Library
 - Every Codebase is a Teacher
 - Patterns isn't Diagrams
+- Correct - Clear - Fast
 
 ---
 
