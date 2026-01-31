@@ -56,6 +56,7 @@ and to discover what consistency can build over time.
 - Every Codebase is a Teacher
 - Patterns isn't Diagrams
 - Correct - Clear - Fast
+- Objects are cheap. Too many objects are not
 
 ---
 
