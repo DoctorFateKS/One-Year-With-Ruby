@@ -57,6 +57,7 @@ and to discover what consistency can build over time.
 - Patterns isn't Diagrams
 - Correct - Clear - Fast
 - Objects are cheap. Too many objects are not
+- Errors are part of the API
 
 ---
 
