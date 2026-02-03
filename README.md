@@ -59,6 +59,7 @@ and to discover what consistency can build over time.
 - Objects are cheap. Too many objects are not
 - Errors are part of the API
 - Code is read more than it is written
+- Small finished projects beat big unfinished dreams
 
 ---
 
