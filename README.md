@@ -60,6 +60,8 @@ and to discover what consistency can build over time.
 - Errors are part of the API
 - Code is read more than it is written
 - Small finished projects beat big unfinished dreams
+- Checkpoint 1
+- Code is a model of reality
 
 ---
 
