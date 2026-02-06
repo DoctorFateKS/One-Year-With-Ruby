@@ -62,6 +62,7 @@ and to discover what consistency can build over time.
 - Small finished projects beat big unfinished dreams
 - Checkpoint 1
 - Code is a model of reality
+- If it shouldn’t change, don’t let it change
 
 ---
 
