@@ -63,6 +63,7 @@ and to discover what consistency can build over time.
 - Checkpoint 1
 - Code is a model of reality
 - If it shouldn’t change, don’t let it change
+- Behavior belongs where the knowledge is
 
 ---
 
