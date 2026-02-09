@@ -65,6 +65,7 @@ and to discover what consistency can build over time.
 - If it shouldn’t change, don’t let it change
 - Behavior belongs where the knowledge is
 - Hard-coded dependencies are future bugs
+- Use functional ideas to reduce state, not to show purity
 
 ---
 
