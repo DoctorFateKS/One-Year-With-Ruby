@@ -66,6 +66,7 @@ and to discover what consistency can build over time.
 - Behavior belongs where the knowledge is
 - Hard-coded dependencies are future bugs
 - Use functional ideas to reduce state, not to show purity
+- Push chaos to the edges
 
 ---
 
