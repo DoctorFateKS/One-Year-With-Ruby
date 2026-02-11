@@ -67,6 +67,7 @@ and to discover what consistency can build over time.
 - Hard-coded dependencies are future bugs
 - Use functional ideas to reduce state, not to show purity
 - Push chaos to the edges
+- Instead of telling everything what to do… announce what happened
 
 ---
 
