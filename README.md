@@ -69,6 +69,7 @@ and to discover what consistency can build over time.
 - Push chaos to the edges
 - Instead of telling everything what to do… announce what happened
 - Errors are part of the domain, not accidents
+- Concurrency doesn’t create bugs. It reveals them
 
 ---
 
